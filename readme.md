@@ -1,5 +1,8 @@
 # Figma hotkey
 
+[![Last update](https://img.shields.io/badge/update-17.07.21-brightgreen)](https://github.com/viktishchenko/git)
+
+
 **Space** — movetool (рука)
 
 **Ctrl + Scroll** — zoom in/out (приближение/отдаление)
