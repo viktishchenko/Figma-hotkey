@@ -57,6 +57,8 @@
 
 **Ctrl + \\** — скрытие всех панелей
 
+**Ctrl + Shift + 4** — скрытие сетки (Н: 12 колонок по 75px gatter 20px)
+
 --
 
 [Обучающее видео →](https://www.youtube.com/watch?v=z6mlqOGmjQQ)
